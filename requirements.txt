@@ -1,2 +1,12 @@
-oauthlib~=2.1.0
-requests~=2.23.0
+oauthlib
+requests
+aiohttp
+async_timeout
+attr
+chardet
+discord
+python-dotenv
+idna
+multidict
+websockets
+yarl
