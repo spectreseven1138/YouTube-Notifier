@@ -3,6 +3,7 @@ import oauthlib
 from discord.ext import commands
 import os
 
+from discord.ext.tasks import loop
 from requests.auth import HTTPBasicAuth
 from requests_oauthlib import OAuth2Session
 
@@ -27,6 +28,14 @@ async def on_ready():
     print(bot_name + " is now running")
     await client.change_presence(activity=discord.Game("Use '.yt ?' for info"))
 
+tick = 1
+
+@loop(seconds=5)
+async def time_loop():
+    global tick
+    print("tick " + str(tick))
+    tick += 1
+
 
 user_list = []
 
@@ -39,7 +48,6 @@ def returnurl(code):
 
 
 os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
-
 
 
 @client.command(pass_context=True)
@@ -78,5 +86,4 @@ async def auth(ctx, code=""):
             user_list.append([str(ctx.message.author.id), "awaiting_code"])
 
 
-
-client.run("NzEzMzIwMzEzNDc5MzY0NjE5.Xseknw.1l5_RZOW6hR0O49o0uYBUBTMtR0")
+client.run("NzEzMzIwMzEzNDc5MzY0NjE5.Xsi_wg.Eiz9hNO3wIGtJsZ9yBuKYm5SY_E")
