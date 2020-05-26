@@ -45,3 +45,5 @@ uritemplate
 urllib3
 websockets
 yarl
+python-firebase
+

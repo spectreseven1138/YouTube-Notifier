@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "youtube-notifier-1138",
+  "private_key_id": "e724b3c68e2c31b097db30ea3597a51ce2ab3787",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDvJtMsDVeNvJFC\nSGLZ4XEi5jAAAgIcsmxrzWy+ALtW7FF9N1+lIl2Z3FICZmp341N+HLTAaff9fg1K\nOENZEcN95Kp1gy791EjnGT+mWzKRFv0AlLcKHTL3w+1mG8jBrr1URCpt4FAblhM9\nR1tHlYGhu5f2B6MKlBXdWLjsUTMuccyjMP6lW/spWQeBhJ4K98pQIjmTw7MxgOsw\not7ZpFvvumnakK8g31L8+wQkq3CHlR3fGBzWRi3YL1OYax82ZhHaKLIZkv1pecHP\n3SQM/ARKhwciBs3ZWUSL4HKZWs1YxNDP2la01UofSsauNBKnFKTeRH5purSV/077\nwW7LwTkHAgMBAAECggEAYbr+BTyWkQeEXQ/zxZJJh7eF2hr3/f40LIHQdH0cEdOV\nIZSlc3htw9izcuOjksbFcf4NJ6ymeWMvzyra6uVFfIcb2dX4OCaufDJnPnZ6XayF\nS916R5nTIEljFJ06F1xvZqZMqIZIdl2IEzy74q8IQK3G1fYc/M+zd7cwKvKr9cgl\nTC5uy7YnTIOe0m41qLL40hyeUr+r/FdiCCID3gwvSO7jvsLRYWucx3S51C/KXioR\nyD2lzZ4B1AymPrRMv7Py3S6l67fjE+WVSaLHuIS4mW+m0bLWXtS89jGRzZLrpJTQ\nOUkxV5tQVWlBwg9GB1zU3Zeni0blllCL4qNBK94VcQKBgQD9cFVyWlMgsy5e8oIi\nzTn9Y2Cqh9dHHS4TCAleQDUuz5KGmYBG2lRFJ9W82eKDjtScGiIu4XHcA8G4/5BF\nLE8/PE12Pq4s5CnUOtk/c0iNTYUbvJqiURxr8fDg7QZOOJzPFcYCupnRJHVQzpyl\ncFjGTCnqsOnMOKr4fd6IxLgK1QKBgQDxkYd18Y50Y0n/gPLXs/T1YsXMdRtn0OwH\nImydaJbLMi6It8b58n50LS+DWZq7oVzPhDwgvS5AuCFEAHct41AELVFA6up8GcpE\nfzOik20j/5/JstTzj1HR3PS/9uF0v+pTmvsp5II+1k32/5CeuLkw2PxhQy7Xh52c\n1QgB0DbqawKBgQDTPatq2hCJo+/VoeqIWWipZAixevIbyx2ZLUypq3jooIjv+cfq\nxpYQ4kgL1cwwfX+G8V1ml/CQQu1YZmN41JrlCT1DfrEsp6yZwcdMVKm3ZVK6MLTu\n8A5xhsKQp99mmVdSYEKgCaqloO7LwLreRksoVVlmzbjByMXwwvEWLGl+VQKBgDJZ\nvv5aZvLjbx0OZ4+GNtyexdOj5R5ycX/bMQBuOGAKCaD9jT+zx5+3e1vJZXMOYyXt\nzgqU4/shZe2imzS5WIhGWdVKIa3UQlCcosqUJ/+E3G1SFQjfKpKvl2QbtUp8Zf8f\nIpLMykkGqiF9i0tJ/W+tCo3LTwwlfDigPpcCKzAZAoGAQU3cjzsIrkgU5zPisZ2L\n+qPjxlDhfNbKt5LLPftdHc5zT2a40Bjxul1Apw4aWW1N1WWqMMvhcIrRz5MaIvHg\nGhCN8Aql8B4rm8DjgB72DZH5DP4xGNpUrNNW2ieFv/i3NMieXsoh18GtU9fDimjj\n3AGx9Pa57HUn28GNI6vQ6PY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7asyt@youtube-notifier-1138.iam.gserviceaccount.com",
+  "client_id": "102686250484050646202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7asyt%40youtube-notifier-1138.iam.gserviceaccount.com"
+}
